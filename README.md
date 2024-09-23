@@ -12,7 +12,7 @@ This repository provides a demonstration of how Aircall's webhook data can be us
 This diagram shows the events triggered during an inbound call, which are used to calculate KPIs:
 ![Call Event Flow](path/to/diagram)
 
-## Pseudo-code for KPI Calculation
+## Sample code for KPI Calculation
 
 The following code outlines how you might process webhook data from Aircall to calculate the required KPIs:
 
