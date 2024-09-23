@@ -14,7 +14,7 @@ This diagram shows the events triggered during an inbound call, which are used t
 
 ## Pseudo-code for KPI Calculation
 
-The following pseudo-code outlines how we can process webhook data from Aircall to calculate the required KPIs:
+The following code outlines how you might process webhook data from Aircall to calculate the required KPIs:
 
 ```javascript
 const calculateKPIs = (callEvents) => {
